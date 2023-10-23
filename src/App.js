@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <ProductProvider>
-        <RouterProvider router={routes} />
+       <RouterProvider router={routes} />
       </ProductProvider>
     </div>
   );
